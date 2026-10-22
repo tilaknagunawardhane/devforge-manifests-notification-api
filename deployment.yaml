@@ -1,0 +1,5 @@
+services:
+  notification-api:
+    build: ./
+    ports:
+      - 8080
